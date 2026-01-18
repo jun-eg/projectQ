@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm install:*)",
+      "Bash(curl:*)",
+      "Bash(sudo netstat:*)",
+      "Bash(ss -tlnp:*)",
+      "Bash(PORT=3002 pnpm dev:*)",
+      "Bash(killall:*)"
+    ]
+  }
+}

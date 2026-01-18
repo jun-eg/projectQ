@@ -1,0 +1,6 @@
+# apps/extension - Claude Instructions
+
+- Plasmo + React + TypeScript
+- モーダルUI（ドラッグ・チャット）を実装する
+- 外部ネットワーク通信は **絶対にしない**（backend経由）
+- API型は `packages/shared` を正とする
